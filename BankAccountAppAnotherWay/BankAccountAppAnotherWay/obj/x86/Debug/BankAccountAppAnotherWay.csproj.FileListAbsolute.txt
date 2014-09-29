@@ -1,0 +1,3 @@
+B:\New folder\OOP4528\08-Mar-2014\BankAccountAppAnotherWay\BankAccountAppAnotherWay\obj\x86\Debug\BankAccountAppAnotherWay.AccountUI.resources
+B:\New folder\OOP4528\08-Mar-2014\BankAccountAppAnotherWay\BankAccountAppAnotherWay\obj\x86\Debug\BankAccountAppAnotherWay.Properties.Resources.resources
+B:\New folder\OOP4528\08-Mar-2014\BankAccountAppAnotherWay\BankAccountAppAnotherWay\obj\x86\Debug\BankAccountAppAnotherWay.csproj.GenerateResource.Cache
